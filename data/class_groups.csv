@@ -1,0 +1,7 @@
+F1,Khoa Công nghệ thông tin,KHOA,
+F2,Khoa Kỹ thuật điện,KHOA,
+F3,Khoa Kinh tế,KHOA,
+C1,Lớp Kỹ thuật phần mềm 1,LOP,F1
+C2,Lớp Hệ thống thông tin,LOP,F1
+C3,Lớp Tự động hóa,LOP,F2
+C4,Lớp Quản trị kinh doanh,LOP,F3
