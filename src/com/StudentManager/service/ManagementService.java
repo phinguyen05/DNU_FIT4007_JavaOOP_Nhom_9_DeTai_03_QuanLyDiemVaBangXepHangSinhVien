@@ -1,4 +1,4 @@
-package service;
+package com.StudentManager.service;
 
 public class ManagementService {
 }

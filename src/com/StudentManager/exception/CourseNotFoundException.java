@@ -1,4 +1,4 @@
-package exception;
+package com.StudentManager.exception;
 
 public class CourseNotFoundException {
 }
