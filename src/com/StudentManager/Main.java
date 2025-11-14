@@ -191,7 +191,7 @@ public class Main {
             System.out.println("3. In bảng xếp hạng theo Khoa (Top 5)");
             System.out.println("4. Thống kê tỷ lệ xếp loại học lực");
             System.out.println("5. DS sinh viên học lại (trượt môn)");
-            System.out.println("6. Xuất bảng xếp hạng toàn trường ra CSV (Test case 10)");
+            System.out.println("6. Xuất bảng xếp hạng toàn trường ra CSV");
             System.out.println("0. Quay lại menu chính");
             int choice = InputUtil.getInt("Chọn chức năng: ");
 
