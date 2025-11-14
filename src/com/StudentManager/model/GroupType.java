@@ -1,4 +1,6 @@
 package com.StudentManager.model;
 
-public class GroupType {
+public enum GroupType {
+    LOP,
+    KHOA
 }
